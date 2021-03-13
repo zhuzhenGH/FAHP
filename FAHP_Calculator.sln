@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FAHP_Calculator", "FAHP_Calculator\FAHP_Calculator.csproj", "{055EE2C8-F7B1-4C38-9E84-AC98CD49A97A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{055EE2C8-F7B1-4C38-9E84-AC98CD49A97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055EE2C8-F7B1-4C38-9E84-AC98CD49A97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055EE2C8-F7B1-4C38-9E84-AC98CD49A97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055EE2C8-F7B1-4C38-9E84-AC98CD49A97A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {509CD91C-E718-4304-B2EA-D54E6A82D028}
+	EndGlobalSection
+EndGlobal
